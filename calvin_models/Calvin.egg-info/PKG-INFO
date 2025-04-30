@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: Calvin
+Version: 0.0.1
+Summary: CALVIN - A benchmark for Language-Conditioned Policy Learning for Long-Horizon Robot Manipulation Tasks
+Home-page:  https://github.com/mees/calvin
+Author: Oier Mees
+Author-email: meeso@informatik.uni-freiburg.de
+License: MIT
+Keywords: pytorch,Lfp
+Platform: Any
+
+UNKNOWN
+

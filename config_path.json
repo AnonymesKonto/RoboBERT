@@ -1,0 +1,5 @@
+{
+    "CALVIN_dataset_path" : "/home/wibot/Data/SC/",
+    "BERT_path": "/home/wibot/SC/roboBert/bert-base-uncased",
+    "dataset_wo_image_path" : "/home/wibot/SC/roboBert/my_models/DDP_training/"
+}
